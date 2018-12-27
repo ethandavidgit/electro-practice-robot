@@ -1,0 +1,9 @@
+Python code for the electrocuting practice robot found here: https://www.youtube.com/watch?v=daVxsP4wIDw
+
+A lot of the code was "borrowed" from Allen Pans Zelda Ocarina Controlled Home Automation video: https://www.youtube.com/watch?v=glZnkpIDWSE
+His How To Make The Zelda Ocarina Controlled Home Automation System here: https://www.youtube.com/watch?v=1RzXoieos5Y
+
+To use for different songs, you need to create the correct sequence of notes for that particular song.
+And you must change the if statements that determining what note is currently being played to include only the notes in the song you have sequenced.
+
+A bit of fine tuning of your mic placement, the instrument and the frequenct ranges may be required to get it working perfectly.
